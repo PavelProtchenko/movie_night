@@ -1,4 +1,4 @@
-###movie_night
+### movie_night
 
 First of all the program is written in ruby. So if you would like to run \
 it you have to install ruby on your pc first.
